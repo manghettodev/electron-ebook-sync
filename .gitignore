@@ -1,9 +1,11 @@
 # Client
 client/dist/*
+client/build/*
 client/node_modules/*
 client/yarn-error.log
 
 # Server
 server/node_modules/*
 server/dist/*
+server/build/*
 server/yarn-error.log

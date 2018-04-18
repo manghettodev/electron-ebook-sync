@@ -1,8 +1,8 @@
 # electron-ebook-sync
-## prerequisiti
+## dependencies
 * [NodeJS](https://nodejs.org/en/download/current/)
-* Electron `yarn global add electron` OR `npm i -g electron`
-## installazione
+
+## setup
 ### client
 * `cd client`
 * `yarn` OR `npm install`
@@ -10,8 +10,11 @@
 * `cd server`
 * `yarn` OR `npm install`
 
-## utilizzo
+## start
 ### client
+* `cd client`
+* `yarn electron .`
+OR, if you installed electron globally
 * `electron ./client/`
 
 ### server

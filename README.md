@@ -13,9 +13,7 @@
 ## start
 ### client
 * `cd client`
-* `yarn electron .`
-OR, if you installed electron globally
-* `electron ./client/`
+* `yarn electron .` OR (if you installed electron globally) `electron ./client/`
 
 ### server
 * `node ./server/main.js`

@@ -1,16 +1,17 @@
 # electron-ebook-sync
 
 ## installazione
+`yarn add global electron`
 ### client
-`cd client`
-`yarn`
+* `cd client`
+* `yarn`
 ### server
-`cd server`
-`yarn`
+* `cd server`
+* `yarn`
 
 ## utilizzo
 ### client
-`electron ./client/`
+* `electron ./client/`
 
 ### server
-`node ./server/main.js`
+* `node ./server/main.js`

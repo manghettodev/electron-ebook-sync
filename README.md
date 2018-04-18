@@ -1,13 +1,13 @@
 # electron-ebook-sync
 
 ## installazione
-`yarn add global electron`
+`yarn global add electron`  OR `npm i -g electron`
 ### client
 * `cd client`
-* `yarn`
+* `yarn` OR `npm install`
 ### server
 * `cd server`
-* `yarn`
+* `yarn` OR `npm install`
 
 ## utilizzo
 ### client
